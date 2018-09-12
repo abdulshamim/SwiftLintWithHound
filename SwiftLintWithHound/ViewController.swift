@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     var firtsName: String = "Abdul"
-    var lastName: String = "khan"
+    var lastName: String = "khans"
     
     override func viewDidLoad() {
         super.viewDidLoad()
